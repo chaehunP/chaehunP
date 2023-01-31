@@ -1,16 +1,15 @@
-### Hi there 👋
+# 안녕하십니까, 신입 안드로이드 개발자를 꿈꾸는 박채훈입니다. 👋
 
-<!--
-**chaehunP/chaehunP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **예비창업패키지로 창업회사에 재직하면서 심전도를 측정하거나 부정맥을 판별하는 앱에 대해 알아보고 살펴보는 기회가 많았습니다.   
+이때, 아두이노 ECG 모듈을 사용하여 실시간 심박수를 화면에 보여주고, 이렇게 얻은 데이터를 CSV 파일에 저장하는 기능을 구현해 보며   
+느낀 점은 전문적인 어떠한 기능이 필요한 사람들에게 저의 능력으로 이를 제공할 수 있는 사람이 되고 싶다는 마음이 생겼습니다.  
+일상생활에서 가장 많이 접하는 스마트폰에서 동작하는 앱을 이용하면 언제 어디서든 사용자가 필요한 기능을 제공할 수 있을 것이라   
+생각하여 앱 개발자가 되기로 결심하였습니다.**
 
-Here are some ideas to get you started:
+>**안드로이드 관련 프로젝트를 경험해 본 적이 없어 보여드릴 프로젝트는 없지만 창업회사에서 있으면서 했던 일인   
+심전도 앱을 분석하여 주석을 추가한 것과 아두이노 ECG 모듈을 앱과 연동시켜 실시간 심박수를 화면에 보여주고  
+이렇게 얻은 데이터를 CSV 파일에 저장하는 기능을 구현한 코드를 업로드했습니다.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>**그리고 안드로이드 개발자가 되기로 결심한 이후 강의를 들으며 만들어본 간단한 shopping 앱을 업로드 하였습니다.** 
+
+
